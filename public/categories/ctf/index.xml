@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CTF on forkbomb444</title>
-    <link>http://localhost/categories/ctf/</link>
+    <link>https://forkbomb444.faizul.me/categories/ctf/</link>
     <description>Recent content in CTF on forkbomb444</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost/categories/ctf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://forkbomb444.faizul.me/categories/ctf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SamClass Violent Python</title>
-      <link>http://localhost/post/violent-python/</link>
+      <link>https://forkbomb444.faizul.me/post/violent-python/</link>
       <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/post/violent-python/</guid>
+      <guid>https://forkbomb444.faizul.me/post/violent-python/</guid>
       <description>Violent Python CTF by SamsClass Event by Samsclass using Python.</description>
     </item>
     
