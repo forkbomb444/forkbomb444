@@ -1,0 +1,30 @@
+baseurl = "http://localhost/"
+title = "forkbomb444"
+theme = "vec"
+languageCode = "en-us"
+paginate = 10
+disqusShortname = ""
+googleAnalytics = ""
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.main]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+
+[params]
+  Keywords = "ctf, forkbomb, hacking, cybersecurity"
+  Description = "forkbomb444 CTF Team site"
+  Avatar = "img/avatar.png"
+  SelfIntro = "Try Harder" 
+  Email = "forkbomb444@tutanota.com"
+
+  GithubID = "forkbomb444"
+  TwitterID = "forkbomb444"
+
